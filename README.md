@@ -331,6 +331,5 @@ http://<EC2-Public-IP>
 * Add Load Balancer
 * Enable HTTPS (SSL)
 * Implement Auto Scaling
-* Secure S3 (private access via IAM)
 
 ---
